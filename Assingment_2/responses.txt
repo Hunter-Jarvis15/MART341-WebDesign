@@ -1,0 +1,11 @@
+The world wide web are the pages you see when you're at a device and you're online. 
+But the internet is the network of connected computers that the web works on, as well as what emails and files travel across.
+
+The Internet simply moves data from one place to another, so that we can chat, browse and share. Data moves over the Internet in a manner called “packet switching.” 
+What packet switching basically does is it sends your data in separate pieces – each tagged with your intended destination.
+
+Directory Also known as a "folder", a directory is a collection of files typically created for organizational purposes. A directory allows files to communicate with each other 
+and where they come from via parent folder and child folder.
+
+My favorite kind of art would have to be cartoon style art. What I mean by that is it has outlines and looks almost like disney made it. If you look up "cartoon art" and go to
+images you'll see kind of what I mean.
