@@ -1,0 +1,7 @@
+1. YouTube, Amazon, Hulu
+2. DNS translates domain names to IP addresses so browsers can load Internet resources. Each device connected to the Internet has a unique IP address which other machines use to find the device. DNS servers eliminate the need for humans to memorize IP addresses
+3. Cookies are text files with small pieces of data like a username and password that are used to identify your computer as you use a website.
+4. Protocol, domain, and path.
+
+6. How to link files within a directory. What absolute and relative URLs are.
+How to write Markdowns.
