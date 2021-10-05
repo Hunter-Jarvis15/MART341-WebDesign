@@ -1,0 +1,4 @@
+1. Using The Wayback Machine website, I decided to take a look at Google's search engine from 1998. It was very direct and to the point and had a lot of information probably not needed at the time. It also had a cartoony look almost as if it was unfinished and was still a work in progress. Now Google is clean and has a lot more customization to it along with Gmail and Google's own products now easily accessible.
+2. I took a web design class back in my freshmen year of high school, so I was excited to get back into the groove of creating code and learning more about new programs that allow for easy creation and file management. These past few topics are definitely bringing back memories of from high school and are only getting easier and easier.
+
+![My Screenshot](./images/Jarvis_Assignment 5.jpg)
