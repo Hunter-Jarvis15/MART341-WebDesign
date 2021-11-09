@@ -1,0 +1,35 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title-container {
+
+    /* Draw a solid border make it red */
+    border-style: solid;
+    border-width: 12.5px;
+    border-color: #8B0000;
+    padding: 10px;
+    /* Color the background yellow. */
+    background-color: #FFC300;
+    margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.paragraph-container{
+
+    margin: auto;
+    width:75%;
+    padding: 70px;
+    border-bottom: 10px silver solid;
+    border-spacing: inherit;
+}
+
+#mainheader{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 60px;
+}
