@@ -1,5 +1,0 @@
-1. I have used GitHub in the past so that wasn't totally new, but the one thing that I was unaware of was the "live Site" link that we started using. Super neat to be able to check if you webpages all work inside of GitHub.
-
-2. There was a lot of interesting ways we were able to use fonts. I had no idea that there fallback fonts in webpages. Media was definitely a hard idea for me to wrap my head around but I understand how powerful it can be to have videos or moving photos on a website. Color has always been something I've had to consider in all the work in other classes, so it wasn't unfamiliar when creating a color palette inside a webpage.
-
-3. I didn't really have any problems with my final page technically, but I did have a hard time writing about myself as an artist for my about page because it was never really something I've done before. I ended up asking some friends how they would describe me as an artist and showed them some of my work from my Gallery page and the information I received was helpful and that's what ended up in my final website. 
